@@ -8,7 +8,7 @@
 - 📫 How to reach me: **hadikiamarzi@protonmail.com**
 - ⚡ Fun fact: **I watch movie and serial and sometimes play video games**
 
-### 🚀 Skills and Tools
+### 💻 Technologies and tools that I use
 
 <p align="left">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -20,7 +20,7 @@
     <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
 </p>
 
-### 💫 Socials
+### 🔗 Find me on the socials
               
 <p align="left">
     <a href="https://www.instagram.com/ihadikia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
