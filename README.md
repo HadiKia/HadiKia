@@ -1,12 +1,8 @@
 <a href="#"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif"></a>
 
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hadi Kia
+### ✨ Who am ?
 
-🧑🏻‍💻 About Me
------------------------------
-- 🌱 I’m currently learning **ReactJs**
-- 📫 How to reach me: **hadikiamarzi@protonmail.com**
-- ⚡ Fun fact: **I watch movie and serial and sometimes play video games**
+I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some of the projects I have done.
 
 ### 💻 Technologies and tools that I use
 
