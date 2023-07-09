@@ -15,6 +15,7 @@ I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some 
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss"/></a>
     <a href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql"/></a>
     <a href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui"/></a>
+    <a href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma"/></a>
     <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
 </p>
 
