@@ -26,5 +26,3 @@ I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some 
     <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>   
 </p>
-
-<img align="left" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
