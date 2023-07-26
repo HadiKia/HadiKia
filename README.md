@@ -6,21 +6,20 @@ I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some 
 
 ### 💻 Technologies and tools that I use
 
- <img src="https://skills.thijs.gg/icons?i=html&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=css&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=js&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=git&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=react&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=tailwind&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=graphql&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=apollo&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=materialui&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=styledcomponents&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=linux&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=svg&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=vscode&theme=dark" />
- <img src="https://skills.thijs.gg/icons?i=netlify&theme=dark" />
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=html&theme=dark" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank">  <img src="https://skills.thijs.gg/icons?i=css&theme=dark" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.thijs.gg/icons?i=js&theme=dark" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=git&theme=dark" /> </a>
+<a href="https://react.dev/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=react&theme=dark" /> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=tailwind&theme=dark" /> </a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=graphql&theme=dark" /> </a>
+<a href="https://www.apollographql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=apollo&theme=dark" /> </a>
+<a href="https://mui.com/material-ui/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=materialui&theme=dark" /> </a>
+<a href="https://styled-components.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=styledcomponents&theme=dark" /> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" /> </a>
+<a href="https://www.ubuntu.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linux&theme=dark" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vscode&theme=dark" /> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=netlify&theme=dark" /> </a>
  
 ### 🔗 Find me on the socials
               
