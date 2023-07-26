@@ -6,14 +6,12 @@ I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some 
 
 ### 💻 Technologies and tools that I use
 
-<p align="left">
-  [![SkillIcons](https://skills.thijs.gg/icons?i=html,css,js,git,react,tailwind,graphql,apollo,materialui,styledcomponents,figma,linux,svg,vscode,netlify&theme=dark)
-</p>
+ <img src="https://skills.thijs.gg/icons?i=html,css,js,git,react,tailwind,graphql,apollo,materialui,styledcomponents,figma,linux,svg,vscode,netlify&theme=dark" />
 
 ### 🔗 Find me on the socials
               
 <p align="left">
-    <a href="https://www.instagram.com/ihadikia" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=instagram&theme=dark" width="32" height="32" /></a>
+    <a href="https://www.instagram.com/ihadikia" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=instagram&theme=dark" /></a>
     <a href="https://www.github.com/HadiKia" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=github&theme=dark" /></a>
     <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=linkedin&theme=dark" /></a>
     <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=twitter&theme=dark" /></a>   
