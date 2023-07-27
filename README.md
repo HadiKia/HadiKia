@@ -6,7 +6,7 @@ I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some 
 
 ### 💻 Technologies and tools that I use
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=html&theme=dark" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=html&theme=dark" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank">  <img src="https://skills.thijs.gg/icons?i=css&theme=dark" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.thijs.gg/icons?i=js&theme=dark" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=git&theme=dark" /> </a>
