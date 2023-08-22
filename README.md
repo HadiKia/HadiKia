@@ -11,6 +11,7 @@ I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.thijs.gg/icons?i=js&theme=dark" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=git&theme=dark" width="40" height="40" /> </a>
 <a href="https://react.dev/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=react&theme=dark" width="40" height="40" /> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=redux&theme=dark" width="40" height="40" /> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=tailwind&theme=dark" width="40" height="40" /> </a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=graphql&theme=dark" width="40" height="40" /> </a>
 <a href="https://www.apollographql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=apollo&theme=dark" width="40" height="40" /> </a>
