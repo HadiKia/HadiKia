@@ -1,32 +1,48 @@
-<a href="#"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif"></a>
+<div align="center">
+    <h4 align="center"><samp>Front-End Developer (React Js)</samp></h4>
+</div>
 
-### ✨ Who am ?
+<p align="center">
+    All of my projects are available at <a href="https://github.com/HadiKia?tab=repositories" target="_blank">Repositories</a>
+</p>
 
-I'm Hadi Kia and I'm a junior FrontEnd developer. On this page you can see some of the projects I have done.
+<p align="center">
+    <a href="mailto:hadikiamarzi@protonmail.com"><img src="https://img.shields.io/badge/Email-323540?style=for-the-badge&logo=protonmail&logoColor=5294E2" alt="Email" style="border-radius:15px"></a>
+    <a href="https://www.instagram.com/ihadikia"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-323540?style=for-the-badge&logo=LinkedIn&logoColor=5294E2" style="border-radius:15px" alt="Discord">
+    <a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-323540?style=for-the-badge&logo=x&logoColor=5294E2" style="border-radius:15px" alt="Discord">
+</p>
 
-### 💻 Technologies and tools that I use
+<br/>
 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=html&theme=dark" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=css&theme=dark" width="40" height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.thijs.gg/icons?i=js&theme=dark" width="40" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=git&theme=dark" width="40" height="40" /> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=react&theme=dark" width="40" height="40" /> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=redux&theme=dark" width="40" height="40" /> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=tailwind&theme=dark" width="40" height="40" /> </a>
-<a href="https://graphql.org/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=graphql&theme=dark" width="40" height="40" /> </a>
-<a href="https://www.apollographql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=apollo&theme=dark" width="40" height="40" /> </a>
-<a href="https://mui.com/material-ui/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=materialui&theme=dark" width="40" height="40" /> </a>
-<a href="https://styled-components.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=styledcomponents&theme=dark" width="40" height="40" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" width="40" height="40" /> </a>
-<a href="https://www.ubuntu.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linux&theme=dark" width="40" height="40" /> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vscode&theme=dark" width="40" height="40" /> </a>
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=netlify&theme=dark" width="40" height="40" /> </a>
- 
-### 🔗 Find me on the socials
-              
-<p align="left">
-    <a href="https://www.instagram.com/ihadikia" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=instagram&theme=dark" width="40" height="40" /></a>
-    <a href="https://www.github.com/HadiKia" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=github&theme=dark" width="40" height="40" /></a>
-    <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=linkedin&theme=dark" width="40" height="40" /></a>
-    <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=twitter&theme=dark" width="40" height="40" /></a>   
+<h1 align="center">
+    Tools And Technologies
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/html-323540?style=for-the-badge&logo=html5&logoColor=5294E2" alt="html5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/css-323540?style=for-the-badge&logo=css3&logoColor=5294E2" alt="css3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/java%20script-323540?style=for-the-badge&logo=javascript&logoColor=5294E2" alt="javascript"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-323540?style=for-the-badge&logo=git&logoColor=5294E2" alt="git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/react-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="react" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/redux-323540?style=for-the-badge&logo=redux&logoColor=5294E2" alt="redux" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/tailwind%20css-323540?style=for-the-badge&logo=tailwind-css&logoColor=5294E2" alt="tailwind" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/graph%20ql-323540?style=for-the-badge&logo=graphql&logoColor=5294E2" alt="graphql" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/apollo%20client-323540?style=for-the-badge&logo=apollographql&logoColor=5294E2" alt="apolloclient" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/material%20ui-323540?style=for-the-badge&logo=mui&logoColor=5294E2" alt="mui" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/styled%20components-323540?style=for-the-badge&logo=styledcomponents&logoColor=5294E2" alt="styledcomponents" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/figma-323540?style=for-the-badge&logo=figma&logoColor=5294E2" alt="figma" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/vscodium-323540?style=for-the-badge&logo=vscodium&logoColor=5294E2" alt="vscodium" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/netlify-323540?style=for-the-badge&logo=netlify&logoColor=5294E2" alt="netlify" style="border-radius:15px"/>
+</div>
+
+<br/>
+
+<h1 align="center">
+    Operating System
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-323540?style=for-the-badge&logo=ubuntu&logoColor=5294E2" alt="Ubuntu"  style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Windows-323540?style=for-the-badge&logo=windows&logoColor=5294E2" alt="Windows"  style="border-radius:15px"/>
 </p>
