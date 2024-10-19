@@ -12,9 +12,8 @@
 
 <p align="center">
     <a href="mailto:hadikiamarzi@protonmail.com"><img src="https://img.shields.io/badge/Email-323540?style=for-the-badge&logo=protonmail&logoColor=5294E2" alt="Email" style="border-radius:15px"></a>
+    <a href="https://gitlab.com/HadiKia"><img src="https://img.shields.io/badge/gitlab-323540?style=for-the-badge&logo=gitlab&logoColor=5294E2" style="border-radius:15px" alt="gitlab"></a>
     <a href="https://www.instagram.com/ihadikia"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-323540?style=for-the-badge&logo=LinkedIn&logoColor=5294E2" style="border-radius:15px" alt="Discord">
-    <a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-323540?style=for-the-badge&logo=x&logoColor=5294E2" style="border-radius:15px" alt="Discord">
 </p>
 
 <br/>
