@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/react-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="react" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/redux-323540?style=for-the-badge&logo=redux&logoColor=5294E2" alt="redux" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/tailwind%20css-323540?style=for-the-badge&logo=tailwind-css&logoColor=5294E2" alt="tailwind" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/sass-323540?style=for-the-badge&logo=sass&logoColor=5294E2" alt="sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/graph%20ql-323540?style=for-the-badge&logo=graphql&logoColor=5294E2" alt="graphql" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/apollo%20client-323540?style=for-the-badge&logo=apollographql&logoColor=5294E2" alt="apolloclient" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/material%20ui-323540?style=for-the-badge&logo=mui&logoColor=5294E2" alt="mui" style="border-radius:15px"/>
