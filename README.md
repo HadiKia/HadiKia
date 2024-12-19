@@ -46,7 +46,8 @@
     Operating System
 </h1>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Ubuntu-323540?style=for-the-badge&logo=ubuntu&logoColor=5294E2" alt="Ubuntu"  style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Windows-323540?style=for-the-badge&logo=windows&logoColor=5294E2" alt="Windows"  style="border-radius:15px"/>
-</p>
+  <img src="https://img.shields.io/badge/Mac%20os-323540?style=for-the-badge&logo=macos&logoColor=5294E2" alt="Mac Os"  style="border-radius:15px"/>
+</div>
