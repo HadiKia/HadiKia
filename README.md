@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/git-323540?style=for-the-badge&logo=git&logoColor=5294E2" alt="git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/react-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="react" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/redux-323540?style=for-the-badge&logo=redux&logoColor=5294E2" alt="redux" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/alpine.js-323540?style=for-the-badge&logo=alpine.js&logoColor=5294E2" alt="alpine.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/tailwind%20css-323540?style=for-the-badge&logo=tailwind-css&logoColor=5294E2" alt="tailwind" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/sass-323540?style=for-the-badge&logo=sass&logoColor=5294E2" alt="sass" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/graph%20ql-323540?style=for-the-badge&logo=graphql&logoColor=5294E2" alt="graphql" style="border-radius:15px"/>
@@ -47,7 +48,7 @@
 </h1>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Mac%20os-323540?style=for-the-badge&logo=macos&logoColor=5294E2" alt="Mac Os"  style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Ubuntu-323540?style=for-the-badge&logo=ubuntu&logoColor=5294E2" alt="Ubuntu"  style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Windows-323540?style=for-the-badge&logo=windows&logoColor=5294E2" alt="Windows"  style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Mac%20os-323540?style=for-the-badge&logo=macos&logoColor=5294E2" alt="Mac Os"  style="border-radius:15px"/>
 </div>
