@@ -27,7 +27,8 @@
     <img src="https://img.shields.io/badge/css-323540?style=for-the-badge&logo=css3&logoColor=5294E2" alt="css3" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/java%20script-323540?style=for-the-badge&logo=javascript&logoColor=5294E2" alt="javascript"  style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-323540?style=for-the-badge&logo=git&logoColor=5294E2" alt="git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/react-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="react" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/react.js-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="react.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/next.js-323540?style=for-the-badge&logo=next.js&logoColor=5294E2" alt="next.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/redux-323540?style=for-the-badge&logo=redux&logoColor=5294E2" alt="redux" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/alpine.js-323540?style=for-the-badge&logo=alpine.js&logoColor=5294E2" alt="alpine.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/tailwind%20css-323540?style=for-the-badge&logo=tailwind-css&logoColor=5294E2" alt="tailwind" style="border-radius:15px"/>
