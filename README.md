@@ -19,6 +19,7 @@ Front-end developer specializing in building scalable and maintainable web appli
 <div align="center">
     <img src="https://img.shields.io/badge/react.js-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="react.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/next.js-323540?style=for-the-badge&logo=next.js&logoColor=5294E2" alt="next.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/type%20script-323540?style=for-the-badge&logo=typescript&logoColor=5294E2" alt="typescript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/redux-323540?style=for-the-badge&logo=redux&logoColor=5294E2" alt="redux" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/tailwind%20css-323540?style=for-the-badge&logo=tailwind-css&logoColor=5294E2" alt="tailwind" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/graph%20ql-323540?style=for-the-badge&logo=graphql&logoColor=5294E2" alt="graphql" style="border-radius:15px"/>
